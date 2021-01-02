@@ -1,4 +1,4 @@
-# javascript-challenge
+## javascript-challenge
 
 ### UFO-level-1
 
