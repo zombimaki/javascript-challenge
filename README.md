@@ -1,6 +1,6 @@
 # javascript-challenge
 
-## UFO-level-1
+### UFO-level-1
 
 The UFO-level-1 web application allows a user to filter the data results by a specific date by entering a date into an input field on the site and clicking the "Filter Table" button.
 :
