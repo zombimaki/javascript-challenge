@@ -35,7 +35,7 @@ function runFilter() {
     var inputCountry = d3.select("#country");
     var inputShape = d3.select("#shape");
 
-    // Get the datetime value property of the input element
+    // Get the value property of the input elements
     var inputDateValue = inputDate.property("value");
     var inputCityValue = inputCity.property("value").toLowerCase();
     var inputStateValue = inputState.property("value").toLowerCase();
