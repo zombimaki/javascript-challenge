@@ -22,6 +22,9 @@ button.on("click", runFilter);
 // date filter function
 function runFilter() {
 
+    // Prevent the page from refreshing
+    d3.event.preventDefault();
+
     //Clear the body
     tbody.html("");
 
